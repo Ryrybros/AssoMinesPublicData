@@ -1,0 +1,33 @@
+[
+    {
+      "uid": 1,
+      "name": "Cartel 2027",
+      "desc": "Le Cartel arrive bientôt aux Mines ! Le recrutement commence en février, restez à l'affût !",
+      "imageUrl": "https://i.seadn.io/gae/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc?auto=format&dpr=1&w=1000"
+    },
+    {
+      "uid": 2,
+      "name": "BRE Nouveau proj",
+      "desc": "On en saura plus à l'avenir...",
+      "imageUrl": "https://i.seadn.io/gae/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc?auto=format&dpr=1&w=1000"
+    },
+    {
+      "uid": 3,
+      "name": "MNO addicte aux fruits",
+      "desc": "POV: MNO essaie de te faire ouvrir un compte Fruitz",
+      "imageUrl": "https://i.seadn.io/gae/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc?auto=format&dpr=1&w=1000"
+    },
+    {
+      "uid": 4,
+      "name": "Toi",
+      "desc": "Après 1 an de ptit dej burkin",
+      "imageUrl": "https://i.seadn.io/gae/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc?auto=format&dpr=1&w=1000"
+    },
+    {
+      "uid": 5,
+      "name": "Breaking news",
+      "desc": "Snoop convié à la nouvelle édition de Mines Contenders, on attend un Banger absolue !!!",
+      "imageUrl": "https://i.seadn.io/gae/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc?auto=format&dpr=1&w=1000"
+    }
+
+  ]
